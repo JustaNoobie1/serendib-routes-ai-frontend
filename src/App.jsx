@@ -5,7 +5,7 @@ import remarkGfm from "remark-gfm";
 import brandMark from "./assets/brand-mark.png";
 import { sendMessage as sendChatMessage } from "./services/chatApi";
 
-import "./app.css";
+import "./App.css";
 
 
 const WELCOME_MESSAGE = {
